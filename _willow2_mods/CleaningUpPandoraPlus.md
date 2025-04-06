@@ -2,7 +2,7 @@
 author: identity
 coop_support: Unknown
 dependencies: []
-download: https://github.com/infernumx/bl-sdk-mods/releases/download/cleaning-up-pandora-plus/cleaning_pandora_plus.sdkmod
+download: https://github.com/infernumx/bl-sdk-mods/releases/download/cleaning-up-pandora-plus/cleaning_up_pandora_plus.sdkmod
 legacy: false
 redirect_from:
 - /mods/CleaningUpPandoraPlus/
