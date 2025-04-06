@@ -11,7 +11,7 @@ supported_games:
 title: Cleaning Up Pandora+
 urls:
   Source Code: https://github.com/infernumx/bl-sdk-mods/tree/main/cleaning_up_pandora_plus
-version: '0.1.0'
+version: '1.0'
 ---
 Adds the ability to sell items that are on the floor or in your backpack by pressing a user-set keybind.
 
