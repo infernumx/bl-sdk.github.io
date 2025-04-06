@@ -1,9 +1,9 @@
 ---
-author: identity and Deceptix_
+author: identity
 coop_support: Unknown
 dependencies: []
 download: https://github.com/infernumx/bl-sdk-mods/releases/download/cleaning-up-pandora-plus/cleaning_pandora_plus.sdkmod
-legacy: true
+legacy: false
 redirect_from:
 - /mods/CleaningUpPandoraPlus/
 supported_games:
@@ -15,5 +15,5 @@ version: '0.1.0'
 ---
 Adds the ability to sell items that are on the floor or in your backpack by pressing a user-set keybind.
 
-NOTE:<ul><li>Items that are favorited or equipped cannot be sold.</li><li>Controller users need to press 'Start' to sell items from their backpack</li><li>All sold items can be bought back from any vendor.</li></ul>
+NOTE:<ul><li>Items that are favorited or equipped cannot be sold.</li><li>All sold items can be bought back from any vendor.</li></ul>
 Credits to Deceptix_ for the original code
